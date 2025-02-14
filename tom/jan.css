@@ -1,0 +1,13 @@
+.logiImg {
+    align-items: center;
+    width: 150px;
+    height: 100px;
+    margin: 20
+}
+
+.janarea {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
